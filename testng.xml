@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="automationexercise" verbose="5" preserve-order="true">
+
+    <test name="automationexercise">
+        <classes>
+
+            <class name="Test.SignUpTest"/>
+
+        </classes>
+    </test>
+
+</suite>
